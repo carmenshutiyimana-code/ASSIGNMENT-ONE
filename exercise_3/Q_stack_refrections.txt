@@ -1,0 +1,21 @@
+Reflection: Why stack can’t replace FIFO in customer lines
+LIFO vs FIFO conflict
+
+   - A stack follows Last-In-First-Out (LIFO).
+   - That means the last customer to join would be the first to be served.
+   - This is unfair in public services because latecomers skip those who waited longer.
+
+Customer dissatisfaction
+
+  - Imagine a bank or MoMo line where the last person who arrives is served first.
+  - The earlier customers would feel cheated, leading to conflict and mistrust.
+
+Breaking fairness principle
+
+  - Government and financial services must follow “first come, first served”.
+  - Only a queue (FIFO) can guarantee that fairness.
+
+Right tool for the right problem
+
+   - Stack is great for undo, backtracking, or reversing strings (like your RWANDA example).
+   - Queue is the only right choice for managing customer service lines.

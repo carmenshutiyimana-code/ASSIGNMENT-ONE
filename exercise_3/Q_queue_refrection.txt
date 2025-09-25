@@ -1,0 +1,21 @@
+Reflection: Why FIFO Ensures Fairness at Ceremonies
+Order respected
+
+  - In a graduation, guests arrive in sequence.
+  - With a queue (FIFO), the first guest to arrive is the first seated.
+  - This respects the time and effort of those who came early.
+
+Equal treatment
+
+   - FIFO prevents late arrivals from jumping ahead of those who waited.
+   - Everyone is served fairly in arrival order, creating a sense of justice.
+
+Social harmony
+
+   - At important ceremonies like graduations, fairness reduces conflicts, complaints, and disorder.
+   - Guests know the rules are transparent: whoever comes first will be served first.
+
+Contrast with Stack
+
+   - If seating used a stack (LIFO), the last guest to arrive would sit first.
+   - This breaks fairness and could cause frustration, as latecomers get an advantage.
